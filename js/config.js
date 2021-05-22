@@ -14,7 +14,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Nimbus Networks SCP-RP";
+var l_serverName = "Arctic Networks SCP-RP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
